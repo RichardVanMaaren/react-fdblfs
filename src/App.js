@@ -2,11 +2,11 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 
-import Home from './../Components/Home';
-import About from './../Components/About';
-import Page3 from './../Components/Page3';
-import Page4 from './../Components/Page4';
-import Footer from './../Components/Footer';
+import Home from './Components/Home';
+import About from './Components/About';
+import Page3 from './Components/Page3';
+import Page4 from './Components/Page4';
+import Footer from './Components/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Nav, Navbar, Container } from 'react-bootstrap';
 
